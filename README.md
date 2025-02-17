@@ -13,7 +13,7 @@
 
 <h2>🌍 View My Portfolio</h2>
 <p>
-    Check out my live portfolio website: <a href="" target="_blank">My Portfolio</a> 🎨💻
+    Check out my live portfolio website: <a href="janitkapdiya.github.io/JanitFolio/" target="_blank">My Portfolio</a> 🎨💻
 </p>
 
 <h2>🛠️ Technologies Used</h2>
